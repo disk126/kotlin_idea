@@ -1,9 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c24025d5-c448-4df6-a24d-b3e4bcd1e7a4" name="Default Changelist" comment="">
+    <list default="true" id="c24025d5-c448-4df6-a24d-b3e4bcd1e7a4" name="Default Changelist" comment="commit message">
+      <change afterPath="$PROJECT_DIR$/src/11if_else.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/diaryTools.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/9diaryTools.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/kotlin_idea/DiaryToolsKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/kotlin_idea/META-INF/kotlin_idea.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kotlin_idea/META-INF/kotlin_idea.kotlin_module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/if_else.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/12if_else.kt" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,7 +23,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/2Typelnfer.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="96">
+            <state>
               <caret line="4" column="12" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
             </state>
           </provider>
@@ -66,16 +69,16 @@
         <entry file="file://$PROJECT_DIR$/src/7calcdemo.kt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="147">
-              <caret line="128" lean-forward="true" selection-start-line="128" selection-end-line="128" />
+              <caret line="128" selection-start-line="128" selection-end-line="128" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/8作业.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="338">
-              <caret line="79" column="24" lean-forward="true" selection-start-line="79" selection-start-column="24" selection-end-line="79" selection-end-column="24" />
+            <state relative-caret-position="369">
+              <caret line="77" column="12" selection-start-line="77" selection-start-column="12" selection-end-line="77" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -83,8 +86,26 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/9diaryTools.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="456">
-              <caret line="45" selection-start-line="45" selection-end-line="45" />
+            <state relative-caret-position="336">
+              <caret line="52" column="31" selection-start-line="52" selection-start-column="31" selection-end-line="52" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/11if_else.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="101">
+              <caret line="12" column="16" lean-forward="true" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/12if_else.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="77">
+              <caret line="9" column="13" lean-forward="true" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -107,11 +128,13 @@
     <setting file="file://$PROJECT_DIR$/src/1helloworld.kt" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/3vardecla.kt" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/9diaryTools.kt" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/12if_else.kt" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/2Typelnfer.kt" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/7calcdemo.kt" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/6booleantest.kt" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/5function.kt" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/8作业.kt" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/11if_else.kt" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -127,19 +150,14 @@
         <option value="$PROJECT_DIR$/src/7calcdemo.kt" />
         <option value="$PROJECT_DIR$/src/8作业.kt" />
         <option value="$PROJECT_DIR$/src/diaryTools.kt" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectConfigurationFiles">
-    <option name="files">
-      <list>
-        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/src/if_else.kt" />
+        <option value="$PROJECT_DIR$/src/12if_else.kt" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="312" />
-    <option name="y" value="101" />
+    <option name="x" value="20" />
+    <option name="y" value="91" />
     <option name="width" value="1026" />
     <option name="height" value="554" />
   </component>
@@ -192,28 +210,28 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin._9diaryToolsKt">
-    <configuration name="_5functionKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Kotlin._12if_elseKt">
+    <configuration name="_11if_elseKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="kotlin_idea" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="_5functionKt" />
+      <option name="MAIN_CLASS_NAME" value="_11if_elseKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_6booleantestKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="_12if_elseKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="kotlin_idea" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="_6booleantestKt" />
+      <option name="MAIN_CLASS_NAME" value="_12if_elseKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -260,11 +278,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin._12if_elseKt" />
+        <item itemvalue="Kotlin._11if_elseKt" />
         <item itemvalue="Kotlin._9diaryToolsKt" />
         <item itemvalue="Kotlin._8作业Kt" />
         <item itemvalue="Kotlin._7calcdemoKt" />
-        <item itemvalue="Kotlin._6booleantestKt" />
-        <item itemvalue="Kotlin._5functionKt" />
       </list>
     </recent_temporary>
   </component>
@@ -284,7 +302,7 @@
       <workItem from="1562825182343" duration="7829000" />
       <workItem from="1563033493289" duration="1769000" />
       <workItem from="1563072430877" duration="18055000" />
-      <workItem from="1563326229163" duration="2240000" />
+      <workItem from="1563326229163" duration="8874000" />
     </task>
     <task id="LOCAL-00001" summary="commit message">
       <created>1563328388311</created>
@@ -293,16 +311,45 @@
       <option name="project" value="LOCAL" />
       <updated>1563328388311</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="commit message">
+      <created>1563329649841</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1563329649841</updated>
+    </task>
+    <task id="LOCAL-00003" summary="commit message">
+      <created>1563329815635</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1563329815635</updated>
+    </task>
+    <task id="LOCAL-00004" summary="commit message">
+      <created>1563329915328</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1563329915328</updated>
+    </task>
+    <task id="LOCAL-00005" summary="commit message">
+      <created>1563333762072</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1563333762072</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="33728000" />
+    <option name="totallyTimeSpent" value="40362000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19007634" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.259542" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -311,17 +358,17 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.054083884" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.49915683" />
+      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.39966273" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.25745857" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50075644" side_tool="true" weight="0.32850242" />
-      <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.49924356" weight="0.23232323" />
+      <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.49924356" weight="0.5193929" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -367,9 +414,47 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="commit message" />
     <option name="LAST_COMMIT_MESSAGE" value="commit message" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/11if_else.kt</url>
+          <line>11</line>
+          <properties />
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/1helloworld.kt">
@@ -381,7 +466,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/2Typelnfer.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
+        <state>
           <caret line="4" column="12" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
         </state>
       </provider>
@@ -390,13 +475,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="168">
           <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/9diaryTools.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="45" selection-start-line="45" selection-end-line="45" />
         </state>
       </provider>
     </entry>
@@ -424,14 +502,40 @@
     <entry file="file://$PROJECT_DIR$/src/7calcdemo.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="147">
-          <caret line="128" lean-forward="true" selection-start-line="128" selection-end-line="128" />
+          <caret line="128" selection-start-line="128" selection-end-line="128" />
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-144" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/8作业.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="338">
-          <caret line="79" column="24" lean-forward="true" selection-start-line="79" selection-start-column="24" selection-end-line="79" selection-end-column="24" />
+        <state relative-caret-position="369">
+          <caret line="77" column="12" selection-start-line="77" selection-start-column="12" selection-end-line="77" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/9diaryTools.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="52" column="31" selection-start-line="52" selection-start-column="31" selection-end-line="52" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/11if_else.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="101">
+          <caret line="12" column="16" lean-forward="true" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/12if_else.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="77">
+          <caret line="9" column="13" lean-forward="true" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
         </state>
       </provider>
     </entry>
