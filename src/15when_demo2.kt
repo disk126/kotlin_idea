@@ -56,12 +56,12 @@ fun gain(num1:Int):String{
         3 ->"三"
         4 ->"四"
         5 ->"五"
-        else ->"其他"
+        else -> num1.toString()
     }
     return result4
 }
 
 
 fun main(args: Array<String>) {
-    spot("动物园")
+    spot("颐和园")
 }
